@@ -20,6 +20,9 @@ bigint
 boolean => true/false
 string => " " or ' '
 null => standalone value
+(In JavaScript, null is a standalone value because you can use it directly 
+without needing to create it through a variable or expression.)
+
 undefined => value not assigned yet
 symbol => uniqueness
 */

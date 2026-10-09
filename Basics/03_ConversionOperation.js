@@ -52,5 +52,13 @@ str1="asdfg" ;  str2= " qwerty" => str3=str1 + str2 => "asdfg qwerty"
 
 */
 
+console.log(true);  //true
+console.log(+true);   //1
+console.log(false);  //false
+console.log(+false);   //0
+console.log(+"");   //0
+
+
+
 
 

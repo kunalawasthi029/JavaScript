@@ -9,7 +9,7 @@ accountCity="Kanpur"  // variable can also be defined without declaring but not 
 let accountDate  // if we declare variable without value it will remain undefined
 
 
-// accountId = 2   //not allowed
+// accountId = 2   //not allowed const can't be changed
 
 accountEmail = "kunalawasthi032@gmail.com"
 accountPassword =  "123"
